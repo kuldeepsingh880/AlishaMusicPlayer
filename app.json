@@ -1,9 +1,9 @@
 {
-    "name": "AdityaPlayer",
-    "logo": "https://te.legra.ph/file/2e2ddeb33674ba956148f.jpg",
+    "name": "Alisha Music",
+    "logo": "https://telegra.ph/file/fd880593afcb71a2c02cd.jpg",
     "description": "An Advanced Premium Music Bot For Telegram Groups VC.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/itsadityaxd/adityaplayer",
+    "repository": "https://github.com/khushbuxabhi/SuperMusic",
     "stack": "container",
     "env": {
         "API_ID": {

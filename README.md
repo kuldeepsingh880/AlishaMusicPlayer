@@ -25,4 +25,4 @@
 
 ### Copy Pasters You Can Copy This But Must Give Credits ...
 
-#### Main Developer = [Abhimanyu](https://t.me/Itz_Venom_xD)
+#### Main Developer = [Abhimanyu Singh Ranawat](https://t.me/Itz_Venom_xD)

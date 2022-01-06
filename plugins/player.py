@@ -173,7 +173,7 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text="💥 𝐉𝐎𝐈𝐍 𝐇𝐄𝐑𝐄 𝐀𝐍𝐃 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 💞",
+                            text="💥 Jøɩɳ Ɦɘɤɘ & Sʋƥƥøɤʈ 💞",
                             url=f"https://t.me/AlishaSupport")
 
                 ]
@@ -212,7 +212,7 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text="💥 𝐉𝐎𝐈𝐍 𝐇𝐄𝐑𝐄 𝐀𝐍𝐃 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 💞",
+                            text="💥 Jøɩɳ Ɦɘɤɘ & Sʋƥƥøɤʈ 💞",
                             url=f"https://t.me/AlishaSupport")
 
                 ]
@@ -228,7 +228,7 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text="💥 𝐉𝐎𝐈𝐍 𝐇𝐄𝐑𝐄 𝐀𝐍𝐃 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 💞",
+                            text="💥 Jøɩɳ Ɦɘɤɘ & Sʋƥƥøɤʈ 💞",
                             url=f"https://t.me/AlishaSupport")
 
                 ]
@@ -282,7 +282,7 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text="💥 𝐉𝐎𝐈𝐍 𝐇𝐄𝐑𝐄 𝐀𝐍𝐃 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 💞",
+                            text="💥 Jøɩɳ Ɦɘɤɘ & Sʋƥƥøɤʈ 💞",
                             url=f"https://t.me/AlishaSupport")
 
                 ]

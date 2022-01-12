@@ -1,7 +1,7 @@
 import os
 import aiohttp
 from os import getenv
-from dotenv import load_dotenv
+from zala import load_dotenv
     
 load_dotenv()
 que = {}
